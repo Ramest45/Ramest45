@@ -2,9 +2,9 @@
 
 <div align="center"> <img src="https://github.com/Shanisoni/Shanisoni/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner(1)33.png"> </div>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanisoni&label=Profile%20views&color=0e75b6&style=flat" alt="shanisoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramest45&label=Profile%20views&color=0e75b6&style=flat" alt="Ramest45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanisoni" alt="shanisoni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramest45" alt="Ramest45" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/shani_soni__" target="blank"><img src="https://img.shields.io/twitter/follow/shani_soni__?logo=twitter&style=for-the-badge" alt="shani_soni__" /></a> </p>
@@ -55,6 +55,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanisoni&" alt="shanisoni" /></p>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanisoni&show_icons=true&locale=en" alt="shanisoni" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanisoni&show_icons=true&locale=en&layout=compact" alt="shanisoni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramest45&" alt="Ramest45" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramest45&show_icons=true&locale=en" alt="Ramest45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramest45&show_icons=true&locale=en&layout=compact" alt="Ramest45" /></p>
