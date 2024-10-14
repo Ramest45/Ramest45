@@ -1,6 +1,6 @@
-![background](https://github.com/user-attachments/assets/4711e4df-fb9e-41a4-a543-a4ff2bb00a26)
-
-<div align="center"> <img src="![background](https://github.com/user-attachments/assets/24a67e77-eec2-495d-8353-6fcd7eba24ea)" height="500px" width="600px"> </div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4711e4df-fb9e-41a4-a543-a4ff2bb00a26" style="width: 100%; height: auto;">
+</div>
 <h3 align="center">A passionate Full Stack Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramest45&label=Profile%20views&color=0e75b6&style=flat" alt="Ramest45" /> </p>
 
