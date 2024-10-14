@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/Ramest45" target="blank"><img src="https://img.shields.io/twitter/follow/Ramest45?logo=twitter&style=for-the-badge" alt="Ramest45" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Projects**
+- 🔭 I’m currently working on **Django Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Development Project Idea's**
 
-- 💬 Ask me about **React,Vue,Data Science**
+- 💬 Ask me about **React,Vue,Data Science,Django Framework,Machine Learning**
 
 - 📫 How to reach me **ramestgupta1234@gmail.com**
 
-- ⚡ Fun fact **I think I am pro in Gaming(True)**
+- ⚡ Fun fact **I think I am pro in Badminton**
 
 # Connect with me
 <p align="left">
